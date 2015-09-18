@@ -1,0 +1,29 @@
+{
+  "name": "testenode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luispeco/testenode.git"
+  },
+  "author": "Peco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luispeco/testenode/issues"
+  },
+  "homepage": "https://github.com/luispeco/testenode#readme"
+}
